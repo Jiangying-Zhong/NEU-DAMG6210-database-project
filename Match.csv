@@ -1,0 +1,19 @@
+MatchID,HomeID,AwayID,HomeScore,AwayScore,City,Tournament
+M01,C04,C01,0,1,Rio de Janeiro,Copa AmÃcrica
+M02,C01,C04,0,0,San Juan,FIFA World Cup qualification
+M03,C12,C02,0,0,Madrid,Friendly
+M04,C09,C02,4,2,Munich,UEFA Euro
+M05,C02,C07,2,2,Budapest,UEFA Euro
+M06,C05,C02,1,0,Seville,UEFA Euro
+M07,C05,C07,2,3,Turin,UEFA Nations League
+M08,C09,C07,0,1,Munich,UEFA Euro
+M09,C12,C07,1,2,Milan,UEFA Nations League
+M10,C14,C09,2,0,London,UEFA Euro
+M11,C12,C03,1,1,Seville,UEFA Euro
+M12,C14,C03,2,1,London,FIFA World Cup qualification
+M13,C03,C14,1,1,Warsaw,FIFA World Cup qualification
+M14,C05,C16,1,2,Munich,UEFA Euro
+M15,C16,C12,1,1,London,UEFA Euro
+M16,C14,C16,1,1,London,UEFA Euro
+M17,C16,C12,1,2,Milan,UEFA Nations League
+M18,C16,C05,2,1,Turin,UEFA Nations League

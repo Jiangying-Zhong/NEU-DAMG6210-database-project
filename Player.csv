@@ -1,0 +1,32 @@
+PlayerID,PlayerFirstName,PlayerLastName,Potential,BestPosition,Wage,Nationality,ContractID,CountryID
+158023,Lionel,Messi,93,RW,320000,Argentina,Con01,C01
+20801,C. Ronaldo dos Santo,Aveiro,92,ST,220000,Portugal,Con02,C02
+188545,Robert, Lewandowski,92,ST,270000,Poland,Con03,C03
+190871,Neymar da Silva,Santos Jr.,91,LW,270000,Brazil,Con04,C04
+192985,Kevin De ,Bruyne,91,CM,370000,Belgium,Con05,C05
+200389,Jan,Oblak,93,GK,125000,Slovenia,Con06,C06
+231747,Kylian,Mbappé,95,ST,160000,France,Con07,C07
+203376,Virgil van,Dijk,91,CB,210000,Netherlands,Con08,C08
+192448,Marc-André ter ,Stegen,92,GK,260000,Germany,Con09,C09
+167495,Manuel,Neuer,90,GK,135000,Germany,Con10,C09
+209331,Mohamed, Salah,90,RW,250000,Egypt,Con11,C10
+200104,Heung Min,Son,89,LM,210000,Korea Republic,Con12,C11
+155862,Sergio Ramos, García,89,CB,300000,Spain,Con13,C12
+165153,Karim,Benzema,89,CF,350000,France,Con14,C07
+193041,Keylor,Navas,89,GK,135000,Costa Rica,Con15,C13
+192119,Thibaut, Courtois,91,GK,250000,Belgium,Con16,C05
+200145,Carlos Henrique Venancio,Casimiro,89,CDM,310000,Brazil,Con17,C04
+202126,Harry , Kane,89,ST,230000,England,Con18,C14
+212622,Joshua,Kimmich,90,CDM,150000,Germany,Con19,C09
+212831,Alisson Ramses, Becker,90,GK,155000,Brazil,Con20,C04
+208722,Sadio,Mané,88,LW,230000,Senegal,Con21,C15
+201024,Kalidou, Koulibaly,88,CB,140000,Senegal,Con22,C15
+182521,Toni,Kroos,88,CM,310000,Germany,Con23,C09
+210257,Ederson Santana de,Moraes,91,GK,195000,Brazil,Con24,C04
+212198,Bruno Miguel Borges, Fernandes,91,CAM,240000,Portugal,Con25,C02
+215914,N'Golo, Kanté,88,CDM,190000,France,Con26,C07
+189596,Thomas, Müller,87,CAM,140000,Germany,Con27,C09
+153079,Sergio,Agüero,87,ST,240000,Argentina,Con28,C01
+162835,Samir,Handanovič,87,GK,84000,Slovenia,Con29,C16
+167948,Hugo, Lloris,87,GK,125000,France,Con30,C07
+186153,Wojciech,Szczęsny,,,,,,
